@@ -1,0 +1,8 @@
+Key released: 'k'
+Key released: 'k'
+Key released: 'k'
+Key released: 'o'
+Key released: 'o'
+Key released: 'o'
+Mouse Pressed at (1046, 49) with Button.left
+Mouse Released at (1046, 49) with Button.left
